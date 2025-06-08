@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 ***
 
-<h3 align="center">Привет! 👋 <br> Меня зовут Кирилл, я QA Engineer!</h3>
+<h3 align="leftr">Привет! 👋 <br> Меня зовут Кирилл, я QA Инженер!</h3>
 
 ***
+
+<img align="right" width="500" height="330" src="https://github.com/belyakovko/belyakovko/blob/5b4234e8cadb01a95f83e9bd595ec3414985e255/assets/gradient-npl-illustration.png" />
 
 ### 🔍 Обо мне
 
@@ -26,9 +28,10 @@ Here are some ideas to get you started:
 - ⚡ Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**. 
 - 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
 
-🔗 **Давайте работать вместе!** Открыт к предложениям о сотрудничестве — если в вашей компании есть подходящая вакансия, буду рад обсудить детали. 🙌
+🔗 **Открыт к предложениям о сотрудничестве!** — если в вашей компании есть подходящая вакансия, буду рад обсудить детали. 🙌
 
-📫 **Как связаться**: [Telegram](https://t.me/ваш_username) | [LinkedIn](https://linkedin.com/in/ваш_профиль) | ваш.email@example.com
+📫 **Как связаться**: <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@KirBelyakov"/> [@KirBelyakov](https://t.me/KirBelyakov)
+
 
 ## Databases
 
@@ -71,7 +74,7 @@ Here are some ideas to get you started:
 [![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KirBelyakov)
+
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
