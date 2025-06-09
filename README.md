@@ -1,63 +1,79 @@
 <!--
 
 -->
-***
+## Привет! 👋 
+### Меня зовут Кирилл, я QA Инженер!</h3>
 
-<h3 align="leftr">Привет! 👋 <br> Меня зовут Кирилл, я QA Инженер!</h3>
-
-***
-
-<img align="right" width="400" height="400" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
+<img align="right" width="350" height="350" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
 
 ## 🔍 Обо мне
+🚀 **Начинающий специалист** с сильной мотивацией к профессиональному развитию.
 
-- 🚀 **Начинающий специалист** с сильной мотивацией к профессиональному развитию.
-- :school_satchel: **Изучил** методологии и инструменты тестирования для того чтобы применять их на практике.
-- 🛠️ Стремлюсь освоить **автоматизированное тестирование** и лучшие практики QA.
-- ⚡ :dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**. 
-- 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
+:school_satchel: **Изучил** методологии и инструменты тестирования для того чтобы применять их на практике.
 
-🔗 Если в вашей компании есть **подходящая вакансия**, буду рад обсудить детали. 🙌
+🛠️ Стремлюсь освоить **автоматизированное тестирование** и лучшие практики QA.
 
-📫 **Как связаться**: <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@KirBelyakov"/> [@KirBelyakov](https://t.me/KirBelyakov)
+:dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**. 
 
-<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-http-internet-marketing-flaticons-lineal-color-flat-icons.png" alt="external-http-internet-marketing-flaticons-lineal-color-flat-icons"/>
+🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
+
+🔗 Если в вашей компании есть **подходящая вакансия**, буду рад обсудить детали  <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@KirBelyakov"/> [@KirBelyakov](https://t.me/KirBelyakov)
 
 ### Тестирование API и интеграций
-
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" /> </td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka/231F20" /> </td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" /> </td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" /> </td>
-    <td> </td>
-    <td> </td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_postman.png" /> </td>
+    <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_rest.png" /></td>
+    <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_soap.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_apachekafka.png" /> </td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_swagger.png" /> </td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_docker.png" /> </td>
   </tr>
   <tr align="center">
     <td>Postman</td>
+    <td>Rest</td>
+    <td>Soap</td>
     <td>Kafka</td>
     <td>Swagger</td>
     <td>Docker</td>
-    <td>Rest</td>
-    <td>Soap</td>
   </tr>
 </table>
 
-### :iphone: :computer: Тестирование Web и Мобильных приложений
-
+### Тестирование Web и Мобильных приложений
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/figma/F24E1E" /></td>
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/html5/E34F26" /></td>
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/css/663399" /></td>
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/firebase/DD2C00" /></td>
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/androidstudio/3DDC84" /></td>
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/charles/663399" /></td>
-    
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_figma.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
+     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
   </tr>
   <tr align="center">
     <td>Figma</td>
+    <td>HTTP</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Firebase</td>
+    <td>Android Studio</td>
+    <td>Charles</td>
+  </tr>
+</table>
+
+###  Автотесты
+<table class="table-primer"border="0" width="100%">
+  <tr align="center">
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/69D3A7" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/selenium/43B02A" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/69D3A7" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/DD2C00" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/3DDC84" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/charles/663399" /></td>
+  </tr>
+  <tr align="center">
+    <td>Cypress</td>
+    <td>Selenium</td>
     <td>HTML</td>
     <td>CSS</td>
     <td>Firebase</td>
@@ -70,11 +86,11 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/metabase/509EE3" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/mysql/4479A1" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/postgresql/4169E1" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/dbeaver/382923" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/mongodb/47A248" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/metabase/509EE3" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/4169E1" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver/382923" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" /></td>
   </tr>
   <tr align="center">
     <td>Metabase</td>
@@ -86,8 +102,38 @@
 </table>
 
 ### Логи и мониторинги
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/kibana/005571" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/sentry/362D59" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/F46800" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/jaeger/66CFE3" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/000000" /></td>
+  </tr>
+  <tr align="center">
+    <td>Kibana</td>
+    <td>Sentry</td>
+    <td>Grafana</td>
+    <td>Jaeger</td>
+    <td>Bash</td>
+  </tr>
+</table>
 
 ### Тестовая документация
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/kibana/005571" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/sentry/362D59" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/F46800" /></td>
+    <td><img height="32" width="32" src="https://cdn.simpleicons.org/miro/000000" /></td>
+  </tr>
+  <tr align="center">
+    <td>Yandex Tracker</td>
+    <td>Test IT</td>
+    <td>Buildin</td>
+    <td>Miro</td>
+  </tr>
+</table>
 
 ## IDEs/Editors
 
