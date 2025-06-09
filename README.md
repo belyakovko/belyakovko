@@ -1,25 +1,21 @@
 <!--
-
--->
-## Привет! 👋 
 ### Меня зовут Кирилл, я QA Инженер!</h3>
+-->
+## Привет! 👋
 
 <img align="right" width="350" height="350" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
 
-## 🔍 Обо мне
-🚀 **Начинающий специалист** с сильной мотивацией к профессиональному развитию.
+### Меня зовут Кирилл, я QA Инженер!
+- 🚀 **Начинающий специалист** с сильной мотивацией к профессиональному развитию.</br>
+- :school_satchel: **Изучил** методологии и инструменты тестирования для того чтобы применять их на практике.</br>
+- 🛠️ Стремлюсь освоить **автоматизированное тестирование** и лучшие практики QA.</br>
+- :dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**.</br>
+- 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.</br>
+### 🔗 Если в вашей компании есть **подходящая вакансия**, буду рад обсудить детали  
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [belyakovko@mail.ru](mailto:belyakovko@mail.ru)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@KirBelyakov](https://t.me/KirBelyakov)
 
-:school_satchel: **Изучил** методологии и инструменты тестирования для того чтобы применять их на практике.
-
-🛠️ Стремлюсь освоить **автоматизированное тестирование** и лучшие практики QA.
-
-:dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**. 
-
-🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
-
-🔗 Если в вашей компании есть **подходящая вакансия**, буду рад обсудить детали  <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@KirBelyakov"/> [@KirBelyakov](https://t.me/KirBelyakov)
-
-### Тестирование API и интеграций
+### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_postman.png" /> </td>
@@ -44,8 +40,10 @@
   <tr align="center">
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_figma.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
-     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
@@ -55,6 +53,8 @@
     <td>HTTP</td>
     <td>HTML</td>
     <td>CSS</td>
+    <td>JavaScript</td>
+    <td>PHP</td>
     <td>Firebase</td>
     <td>Android Studio</td>
     <td>Charles</td>
@@ -64,33 +64,34 @@
 ###  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/69D3A7" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/selenium/43B02A" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/69D3A7" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/DD2C00" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/3DDC84" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/charles/663399" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_selenium.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_gitlab.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_github.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_python.png" /></td>
   </tr>
   <tr align="center">
     <td>Cypress</td>
     <td>Selenium</td>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>Firebase</td>
-    <td>Android Studio</td>
-    <td>Charles</td>
+    <td>PyTest</td>
+    <td>GitLab</td>
+    <td>GitHub</td>
+    <td>VS Code</td>
+    <td>Python</td>
   </tr>
 </table>
 
-### :books: Работа с базами данных
+### Работа с базами данных
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/metabase/509EE3" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/4169E1" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver/382923" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_metabase.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png" /></td>
   </tr>
   <tr align="center">
     <td>Metabase</td>
@@ -104,11 +105,11 @@
 ### Логи и мониторинги
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/kibana/005571" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/sentry/362D59" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/F46800" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/jaeger/66CFE3" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/000000" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_kibana.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_sentry.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_grafana.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_bash.png" /></td>  
   </tr>
   <tr align="center">
     <td>Kibana</td>
@@ -122,36 +123,33 @@
 ### Тестовая документация
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/kibana/005571" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/sentry/362D59" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/F46800" /></td>
-    <td><img height="32" width="32" src="https://cdn.simpleicons.org/miro/000000" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_yandex_tracker.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_testit.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_buildin.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/65c743bd66e48ffc9757665731780eb3a755858b/assets/logo_miro.png" /></td>
   </tr>
   <tr align="center">
-    <td>Yandex Tracker</td>
+    <td>Yandex </br>Tracker</td>
     <td>Test IT</td>
     <td>Buildin</td>
     <td>Miro</td>
   </tr>
 </table>
 
-## IDEs/Editors
+## Практика и стажировка
 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" / </td>
+  </tr>
+</table>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Образование
 
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/8d46f67ca7babc22de0cd0f5b1bc7fbaba074d41/assets/certificate_basic_course_qae_ru_1.png" /></td>
+    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/8d46f67ca7babc22de0cd0f5b1bc7fbaba074d41/assets/certificate_basic_course_qae_ru_2.png" /></td>
+  </tr>
+</table>
 
-# Образование
-
-![Stat](https://github-readme-stats.vercel.app/api?username=belyakovko&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belyakovko&langs_count=8)
-![](https://github-profile-trophy.vercel.app/?username=belyakovko)
