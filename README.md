@@ -138,20 +138,27 @@
 
 ## Практика и стажировка
 
+### Джуны. Проект Чат Net [[App Store]](https://apps.apple.com/ru/app/abc-%D1%87%D0%B0%D1%82/id6737430393)
 <table class="table" border="0" width="100%">
   <tr>
-    <td align="center"><img width="300" src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" /   </td>
-    <td align="left"> Во время стажировки принял участие в проекте мобильного приложения Чат Net</br> 
-    <a href="https://apps.apple.com/ru/app/abc-%D1%87%D0%B0%D1%82/id6737430393">[Приложение в App Store]</a></br>
-    За период стажировки мной:</br>
-    - Проведено исследовательское тестирование функциональной части приложения.</br>
-    - Сформировано 9 чек-листов.</br>
-    - Проведено более 170 тестов.</br>
-    - Выявлено 14 багов.</br>
-    - Оформлено 6 баг-репортов.</br>
-    - Проведено ревью баг-репортов других участников команды.</br>
-    - Предложено 10 рекомендаций по улучшению приложения.</br>
-    <a href="https://miro.com/app/board/uXjVIsDBZDk=/?share_link_id=294753828963">[Подробнее]</a>
+    <td align="center"><img width="300"     src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" />  </td>
+    <td align="left"> <b>О проекте: </b></br>
+  - Многопользовательский мобильный мессенджер на ios и andriod.</br>
+  - Задача: Исследовательское тестирование функционала приложения.</br>
+  - Состав команды: QA-тимлид, тест-менеджер и 7 тестировщиков.</br>
+  - Длительность стажировки: 56 часов.</br>
+  - Результат работы передали тестировщикам из команды Чат Net.</br>
+   <b>Моя зона ответственности: </b></br>
+  - Провел исследовательское тестирование.</br>
+  - Сформировал 9 чек-листов в Miro.</br>
+  - Провел более 170 тестов.</br>
+  - Выявил 14 багов.</br>
+  - Оформил 6 баг-репортов в таск-трекере Buildin.</br>
+  - Добавил 10 рекомендаций по улучшению приложения.</br>
+  - Ревьюил баг-репорты других тестировщиков</br>
+  - Участвовал в ежедневных синках с командой</br>
+  - Стек: Buildin, Miro.</br>
+   <a href="https://miro.com/app/board/uXjVIsDBZDk=/?share_link_id=294753828963">[Отчёт о тестировании]</a></br>
   </td>
   </tr>
 </table>
@@ -164,4 +171,3 @@
     <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/8d46f67ca7babc22de0cd0f5b1bc7fbaba074d41/assets/certificate_basic_course_qae_ru_2.png" /></td>
   </tr>
 </table>
-
