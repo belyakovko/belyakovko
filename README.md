@@ -141,8 +141,8 @@
 <table class="table" border="0" width="100%">
   <tr>
     <td align="center"><img width="300" src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" /   </td>
-    <td align="left"> Во время стажировки принял участие в проекте мобильного приложения Чат Net</br>
-    (https://apps.apple.com/ru/app/abc-%D1%87%D0%B0%D1%82/id6737430393)</br>
+    <td align="left"> Во время стажировки принял участие в проекте мобильного приложения Чат Net</br> 
+    <a href="https://apps.apple.com/ru/app/abc-%D1%87%D0%B0%D1%82/id6737430393">[Приложение в App Store]</a></br>
     За период стажировки мной:</br>
     - Проведено исследовательское тестирование функциональной части приложения.</br>
     - Сформировано 9 чек-листов.</br>
