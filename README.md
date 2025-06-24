@@ -145,7 +145,7 @@
     <td align="center"><img width="300"     src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" />  </td>
     <td align="left"> <b>О проекте: </b></br>
   - Многопользовательский мобильный мессенджер на ios и andriod.</br>
-  - Задача: Исследовательское тестирование функционала приложения.</br>
+  - Задача: Ad-Hoc тестирование функционала приложения.</br>
   - Состав команды: QA-тимлид, тест-менеджер и 7 тестировщиков.</br>
   - Длительность стажировки: 56 часов.</br>
   - Результат работы передали тестировщикам из команды Чат Net.</br>
