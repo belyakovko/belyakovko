@@ -1,4 +1,4 @@
-# Привет! 👋 Я Кирилл Беляков
+# Привет! 👋 Я Кирилл.
 
 <img align="right" width="245" alt="Иллюстрация профиля" src="https://raw.githubusercontent.com/belyakovko/belyakovko/main/assets/background__18748.png" />
 
@@ -71,8 +71,6 @@
 **Автоматизация и цифровые инструменты**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-334155?style=flat-square) ![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC7F7?style=flat-square)
-
-**Дополнительно:** функциональное тестирование, Postman, Cypress; ИИ-инструменты для прототипирования, поиска ошибок и ускорения разработки.
 
 ## 🤝 Контакты
 
