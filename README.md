@@ -1,174 +1,87 @@
-<!--
-### Меня зовут Кирилл, я QA Инженер!</h3>
--->
-## Привет! 👋
+# Привет! 👋 Я Кирилл Беляков
 
-<img align="right" width="350" height="350" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
+<img align="right" width="245" alt="Иллюстрация профиля" src="https://raw.githubusercontent.com/belyakovko/belyakovko/main/assets/background__18748.png" />
 
-### Меня зовут Кирилл, я QA Инженер!
-- 🚀 **Начинающий специалист** в области функционального тестирования с сильной мотивацией к профессиональному развитию.</br>
-- :school_satchel: **Изучил** методологии и инструменты тестирования для того чтобы применять их на практике.</br>
-- 🛠️ Автоматизирую рутину (Python + Cypress), чтобы сосредоточиться на сложных кейсах.</br>
-- :dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**.</br>
-- 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.</br>
+### Бизнес-аналитик | Анализ бизнес-показателей и автоматизация
 
-### Если в вашей компании есть **подходящая вакансия**, буду рад обсудить детали  
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [belyakovko@mail.ru](mailto:belyakovko@mail.ru)
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@KirBelyakov](https://t.me/KirBelyakov)
+**Анализ показателей · Прогнозирование · Управленческие решения**
 
-### Тестирование API и интеграций 
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_postman.png" /> </td>
-    <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_rest.png" /></td>
-    <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_soap.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_apachekafka.png" /> </td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_swagger.png" /> </td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_docker.png" /> </td>
-  </tr>
-  <tr align="center">
-    <td>Postman</td>
-    <td>Rest</td>
-    <td>Soap</td>
-    <td>Kafka</td>
-    <td>Swagger</td>
-    <td>Docker</td>
-  </tr>
-</table>
+Анализирую коммерческие и операционные показатели: продажи, спрос, загрузку, цены и эффективность процессов. Ищу причины отклонений, строю прогнозы и предлагаю решения на основе данных.
 
-### Тестирование Web и Мобильных приложений
-<table class="table-primer"border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_figma.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
-  </tr>
-  <tr align="center">
-    <td>Figma</td>
-    <td>HTTP</td>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>PHP</td>
-    <td>Firebase</td>
-    <td>Android Studio</td>
-    <td>Charles</td>
-  </tr>
-</table>
+Более **18 лет профессионального опыта**, включая управление бизнес-процессами и командами в промышленном B2B. Сегодня мой основной фокус — **аналитика деятельности бизнеса**. Автоматизация и проектирование цифровых инструментов помогают превращать анализ в практические решения.
 
-###  Автотесты
-<table class="table-primer"border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_selenium.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_gitlab.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_github.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_python.png" /></td>
-  </tr>
-  <tr align="center">
-    <td>Cypress</td>
-    <td>Selenium</td>
-    <td>PyTest</td>
-    <td>GitLab</td>
-    <td>GitHub</td>
-    <td>VS Code</td>
-    <td>Python</td>
-  </tr>
-</table>
+📧 [Email](mailto:belyakovko@mail.ru) · 💬 [Telegram](https://t.me/KirBelyakov)
 
-### Работа с базами данных
+<br clear="right" />
 
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_metabase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png" /></td>
-  </tr>
-  <tr align="center">
-    <td>Metabase</td>
-    <td>MySQL</td>
-    <td>PostgreSQL</td>
-    <td>DBeaver</td>
-    <td>Mongo DB</td>
-  </tr>
-</table>
+---
 
-### Логи и мониторинги
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_kibana.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_sentry.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_grafana.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_bash.png" /></td>  
-  </tr>
-  <tr align="center">
-    <td>Kibana</td>
-    <td>Sentry</td>
-    <td>Grafana</td>
-    <td>Jaeger</td>
-    <td>Bash</td>
-  </tr>
-</table>
+## 📊 Избранные проекты
 
-### Тестовая документация
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_yandex_tracker.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_testit.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_buildin.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/65c743bd66e48ffc9757665731780eb3a755858b/assets/logo_miro.png" /></td>
-  </tr>
-  <tr align="center">
-    <td>Yandex </br>Tracker</td>
-    <td>Test IT</td>
-    <td>Buildin</td>
-    <td>Miro</td>
-  </tr>
-</table>
+### 01. Аналитика коммерческих показателей и прогнозирование
 
-## Практика и стажировка
+**Задача:** объединить данные о спросе, клиентах, бронированиях, продажах, загрузке, тарифах и планах для управления коммерческими показателями отеля.
 
-### Джуны. Проект Чат Net [[App Store]](https://apps.apple.com/ru/app/abc-%D1%87%D0%B0%D1%82/id6737430393)
-<table class="table" border="0" width="100%">
-  <tr>
-    <td align="center"><img width="300"     src="https://github.com/belyakovko/belyakovko/blob/c1a9ed6b1baa213d69f8a13bc4258590dfda645b/assets/certificate_participating_chat_net_ru.PNG" />  </td>
-    <td align="left"> <b>О проекте: </b></br>
-  - Многопользовательский мобильный мессенджер на ios и andriod.</br>
-  - Задача: Ad-Hoc тестирование функционала приложения.</br>
-  - Состав команды: QA-тимлид, тест-менеджер и 7 тестировщиков.</br>
-  - Длительность стажировки: 56 часов.</br>
-  - Результат работы передали тестировщикам из команды Чат Net.</br>
-   <b>Моя зона ответственности: </b></br>
-  - Провел исследовательское тестирование.</br>
-  - Сформировал 9 чек-листов в Miro.</br>
-  - Провел более 170 тестов.</br>
-  - Выявил 14 багов.</br>
-  - Оформил 6 баг-репортов в таск-трекере Buildin.</br>
-  - Добавил 10 рекомендаций по улучшению приложения.</br>
-  - Ревьюил баг-репорты других тестировщиков</br>
-  - Участвовал в ежедневных синках с командой</br>
-  - Стек: Buildin, Miro.</br>
-   <a href="https://miro.com/app/board/uXjVIsDBZDk=/?share_link_id=294753828963">[Отчёт о тестировании]</a></br>
-  </td>
-  </tr>
-</table>
+**Мой вклад:** формирую планы и прогнозы, анализирую отклонения и ценообразование, определяю методологию показателей. Организую сбор и проверку данных, проектирую бизнес-логику аналитического приложения, формирую требования и курирую разработку. Проверяю расчёты и функции на фактических данных.
 
-## Образование
+**Инструменты:** `SQL` · `PostgreSQL` · `Supabase` · `Power BI` · `Power Query` · `DAX` · `Python` · `Google Apps Script`
 
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_1.png" /></td>
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_2.png" /></td>
-  </tr>
-</table>
+**[Открыть демо аналитического приложения](https://belyakovko.github.io/hotel-analytics-demo/)** · демонстрационные данные.
+
+### 02. Операционная аналитика производства и отгрузок
+
+**Задача:** обеспечить оперативную информацию о заказах, производстве, транспорте, складах и отгрузках.
+
+**Мой вклад:** разработал Excel/Power Query-дашборд, объединил данные из нескольких источников и автоматизировал подготовку утренней отчётности.
+
+**Результат:** время подготовки отчётности сократилось **с 30–40 до примерно 10 минут**.
+
+**Инструменты:** `Excel` · `Power Query`
+
+### 03. Автоматизация подготовки и обработки данных
+
+**Задача:** сократить ручную работу с производственными данными и документами.
+
+**Мой вклад:** разработал Excel/VBA-инструменты для консолидации **20 внутренних файлов и выгрузок**, обработки данных и формирования транспортных заявок. Создал инструмент очистки и проверки TXT-выгрузок перед загрузкой в SAP.
+
+**Результаты:** обработка одной задачи с TXT-данными сократилась **с 2 до 1 часа**, оформление транспортных заявок — **примерно вдвое**.
+
+**Инструменты:** `Excel` · `VBA` · `SAP`
+
+**[Все проекты и профессиональный опыт →](projects/README.md)**
+
+## 🏭 Управленческий опыт
+
+В промышленном B2B руководил подразделением и командой **до 12 человек**, координировал сопровождение заказов, продажи, производство, логистику и взаимодействие с клиентами.
+
+Этот опыт помогает оценивать показатели в контексте реальных бизнес-процессов, учитывать ограничения подразделений и вырабатывать решения совместно с руководителями и исполнителями.
+
+## 🔎 Вне фокуса
+
+Короткие заметки о бизнесе, аналитике и принятии решений. О том, что остаётся незамеченным за очевидными цифрами и привычными подходами.
+
+**[Читать «Вне фокуса» →](outside-focus/README.md)**
+
+## 🛠️ Инструменты
+
+**Аналитика и данные**
+
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-334155?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Автоматизация и цифровые инструменты**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-334155?style=flat-square) ![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC7F7?style=flat-square)
+
+**Дополнительно:** функциональное тестирование, Postman, Cypress; ИИ-инструменты для прототипирования, поиска ошибок и ускорения разработки.
+
+## 🤝 Контакты
+
+Открыт к задачам в бизнес-аналитике, автоматизации и развитии цифровых решений.
+
+📧 [belyakovko@mail.ru](mailto:belyakovko@mail.ru) · 💬 [@KirBelyakov](https://t.me/KirBelyakov)
+
+[Дополнительные материалы портфолио](https://drive.google.com/drive/folders/1zkZ5wzKWkoglOZ3YQjXAsKrCEmiK9f0W?usp=sharing)
+
+---
+
+<sub>От бизнес-показателей — к обоснованным решениям.</sub>
